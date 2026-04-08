@@ -1,5 +1,7 @@
 # champ – Ringkampfsport-Wettbewerbs-Management-Tool
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://8biz.github.io/champ-ideas/)
+
 > **Brainstorming & Ideensammlung** für ein Tool zur Leitung von Ringkampfsport-Wettbewerben.
 
 ## Projektbeschreibung
