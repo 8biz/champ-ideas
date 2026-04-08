@@ -2,7 +2,7 @@
 
 **Projekt**: champ – Ringkampfsport-Wettbewerbs-Management-Tool  
 **Version**: 0.1.0 (Entwurf)  
-**Stand**: 2024  
+**Stand**: 2026-04-08  
 
 ---
 
